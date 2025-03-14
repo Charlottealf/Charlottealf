@@ -1,7 +1,10 @@
 ## Hi there 👋
 ## c++
-##desarmar laptop y darle mantenimiento 
-##
+###
+![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white))
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 <!--
 **Charlottealf/Charlottealf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
